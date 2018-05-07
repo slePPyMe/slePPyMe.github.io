@@ -5,7 +5,4 @@ category: Note
 ---
 
 
-
-# Hello, World
-
 用Jekyll的NeXT主题搭建起来了博客。虽然名字都没有取好。你好啊世界。
