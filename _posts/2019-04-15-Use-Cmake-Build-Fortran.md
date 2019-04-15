@@ -4,8 +4,6 @@ date: 2019-4-15 16:52:17
 category: Note
 ---
 
-# 使用`CMake`构建`Fortran`工程实例
-
 使用`cmake`构建一个`Fortran`工程。有如下特点：源码统一放在src文件夹下、编译时通过-D指定编译器和编译版本（Release或者Debug）、默认编译器为`gfortran`默认编译版本为Release。
 
 <!--more-->
