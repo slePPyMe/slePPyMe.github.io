@@ -1,5 +1,5 @@
 ---
-title: 使用`CMake`构建`Fortran`工程实例
+title: 使用CMake构建Fortran工程实例
 date: 2019-4-15 16:52:17
 category: Note
 ---
